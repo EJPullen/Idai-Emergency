@@ -4,8 +4,11 @@ Plot created for third-year Geography project at the University of Bristol using
 
 Dataframe ordered by districts, with a row for the exposure (and associated percentage exposure) in each return period.
 Naming conventions: 
+
 H20 = The population exposured in a 1-in-20-year flood.
+
 H1000PR = The percentage of the district exposed to a 1-in-1000-year flood. 
+
 NAME_2 = The name of the District 
 
 ```{r}
