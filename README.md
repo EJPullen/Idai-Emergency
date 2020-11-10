@@ -3,6 +3,7 @@ Cleveland dot-plot for Mozambique's district exposure to Cyclone Idai (2019).
 Plot created for third-year Geography project at the University of Bristol using the tidyverse() library in Rstudio. 
 
 Dataframe ordered by districts, with a row for the exposure (and associated percentage exposure) in each return period.
+
 Naming conventions: 
 
 H20 = The population exposured in a 1-in-20-year flood.
