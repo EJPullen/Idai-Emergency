@@ -44,3 +44,9 @@ NAME_2 = The name of the District
   theme_light()
   
 ```
+
+The image can be seen as:
+
+![Screenshot](https://github.com/EJPullen/Idai-Emergency/blob/main/markdowngraph)
+
+
