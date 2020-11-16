@@ -47,6 +47,6 @@ NAME_2 = The name of the District
 
 The image can be seen as:
 
-![Alt text](relative/path/to/img.jpg?raw=true "mardowngraph")
+![Graph](https://raw.github.com/EJPullen/Idai-Emergency/blob/main/markdowngraph
 
 
